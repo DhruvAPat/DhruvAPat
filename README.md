@@ -47,9 +47,12 @@
 <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg' title='Tensorflow' alt='Tensorflow' width='40' heigh='40'/>&nbsp
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' title='JavaScript' alt='javaScript' width='40' heigh='40'/>&nbsp
 <img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg' title='Pytorch' alt='Pytorch' width='40' heigh='40'/>&nbsp
-
-
-
-
-
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DhruvAPat&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvAPat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
