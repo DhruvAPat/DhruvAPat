@@ -25,11 +25,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I am a Graduate Student at the University of Texas at Dallas and an aspiring Data Scientist.
+- :telescope: I am a Graduate Student at the University of Texas at Dallas and an aspiring Data Analyst, Data Engineer.
 
-- :seedling: Exploring Technical Content Writing, AIOPS & Blockchain.
+- :seedling: Exploring oppurtunities in Data analysis.
 
-- :zap: In my free time, I solve problems on hackerrank ,LeetCode ,read books and play the guitar.
+.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DhruvPatil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-ashish-patil-b70a0317b/)
 
